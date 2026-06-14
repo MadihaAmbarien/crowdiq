@@ -1,0 +1,2649 @@
+timestamp,queue,dominant_emotion,neg_count,flagged,recommendation
+2026-05-17 22:29:26,Counter,Neutral,0,False,All Good
+2026-05-17 22:29:26,Queue 1,Happy,0,False,All Good
+2026-05-17 22:29:26,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:29:26,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:29:40,Counter,Neutral,0,False,All Good
+2026-05-17 22:29:40,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:29:40,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:29:40,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:29:52,Counter,Neutral,0,False,All Good
+2026-05-17 22:29:52,Queue 1,Happy,1,False,All Good
+2026-05-17 22:29:52,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:29:52,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:30:04,Counter,Neutral,0,False,All Good
+2026-05-17 22:30:04,Queue 1,Neutral,7,True,Service Quality Check Required
+2026-05-17 22:30:04,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:30:04,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:30:18,Counter,Neutral,0,False,All Good
+2026-05-17 22:30:18,Queue 1,Neutral,4,True,Service Quality Check Required
+2026-05-17 22:30:18,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:30:18,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:30:30,Counter,Neutral,0,False,All Good
+2026-05-17 22:30:30,Queue 1,Neutral,12,True,Service Quality Check Required
+2026-05-17 22:30:30,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:30:30,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:30:42,Counter,Neutral,0,False,All Good
+2026-05-17 22:30:42,Queue 1,Neutral,6,True,Service Quality Check Required
+2026-05-17 22:30:42,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:30:42,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:30:56,Counter,Neutral,0,False,All Good
+2026-05-17 22:30:56,Queue 1,Neutral,1,False,All Good
+2026-05-17 22:30:56,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:30:56,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:31:10,Counter,Neutral,0,False,All Good
+2026-05-17 22:31:10,Queue 1,Neutral,4,True,Service Quality Check Required
+2026-05-17 22:31:10,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:31:10,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:31:22,Counter,Neutral,0,False,All Good
+2026-05-17 22:31:22,Queue 1,Neutral,5,True,Service Quality Check Required
+2026-05-17 22:31:22,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:31:22,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:31:37,Counter,Neutral,0,False,All Good
+2026-05-17 22:31:37,Queue 1,Happy,1,False,All Good
+2026-05-17 22:31:37,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:31:37,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:31:49,Counter,Neutral,0,False,All Good
+2026-05-17 22:31:49,Queue 1,Neutral,10,True,Service Quality Check Required
+2026-05-17 22:31:49,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:31:49,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:32:02,Counter,Neutral,0,False,All Good
+2026-05-17 22:32:02,Queue 1,Neutral,2,False,All Good
+2026-05-17 22:32:02,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:32:02,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:32:17,Counter,Neutral,0,False,All Good
+2026-05-17 22:32:17,Queue 1,Neutral,4,True,Service Quality Check Required
+2026-05-17 22:32:17,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:32:17,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:32:31,Counter,Neutral,0,False,All Good
+2026-05-17 22:32:31,Queue 1,Neutral,4,True,Service Quality Check Required
+2026-05-17 22:32:31,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:32:31,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:32:43,Counter,Neutral,0,False,All Good
+2026-05-17 22:32:43,Queue 1,Happy,0,False,All Good
+2026-05-17 22:32:43,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:32:43,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:32:55,Counter,Neutral,0,False,All Good
+2026-05-17 22:32:55,Queue 1,Happy,0,False,All Good
+2026-05-17 22:32:55,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:32:55,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:33:07,Counter,Neutral,0,False,All Good
+2026-05-17 22:33:07,Queue 1,Happy,0,False,All Good
+2026-05-17 22:33:07,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:33:07,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:33:20,Counter,Neutral,0,False,All Good
+2026-05-17 22:33:20,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:33:20,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:33:20,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:33:32,Counter,Neutral,0,False,All Good
+2026-05-17 22:33:32,Queue 1,Neutral,8,True,Service Quality Check Required
+2026-05-17 22:33:32,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:33:32,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:33:44,Counter,Neutral,0,False,All Good
+2026-05-17 22:33:44,Queue 1,Happy,1,False,All Good
+2026-05-17 22:33:44,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:33:44,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:33:57,Counter,Neutral,0,False,All Good
+2026-05-17 22:33:57,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:33:57,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:33:57,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:34:12,Counter,Neutral,0,False,All Good
+2026-05-17 22:34:12,Queue 1,Happy,6,True,Service Quality Check Required
+2026-05-17 22:34:12,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:34:12,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:34:25,Counter,Neutral,0,False,All Good
+2026-05-17 22:34:25,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:34:25,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:34:25,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:34:38,Counter,Neutral,0,False,All Good
+2026-05-17 22:34:38,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:34:38,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:34:38,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:34:50,Counter,Neutral,0,False,All Good
+2026-05-17 22:34:50,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:34:50,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:34:50,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:35:46,Counter,Neutral,0,False,All Good
+2026-05-17 22:35:46,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:35:46,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:35:46,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:35:58,Counter,Neutral,0,False,All Good
+2026-05-17 22:35:58,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:35:58,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:35:58,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:36:11,Counter,Neutral,0,False,All Good
+2026-05-17 22:36:11,Queue 1,Neutral,17,False,All Good
+2026-05-17 22:36:11,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:36:11,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:36:25,Counter,Neutral,0,False,All Good
+2026-05-17 22:36:25,Queue 1,Neutral,11,False,All Good
+2026-05-17 22:36:25,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:36:25,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:36:37,Counter,Neutral,0,False,All Good
+2026-05-17 22:36:37,Queue 1,Sad,39,False,All Good
+2026-05-17 22:36:37,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:36:37,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:36:50,Counter,Neutral,0,False,All Good
+2026-05-17 22:36:50,Queue 1,Sad,3,False,All Good
+2026-05-17 22:36:50,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:36:50,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:37:04,Counter,Neutral,0,False,All Good
+2026-05-17 22:37:04,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:37:04,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:37:04,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:37:16,Counter,Neutral,0,False,All Good
+2026-05-17 22:37:16,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:37:16,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:37:16,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:37:29,Counter,Neutral,0,False,All Good
+2026-05-17 22:37:29,Queue 1,Sad,6,False,All Good
+2026-05-17 22:37:29,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:37:29,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:37:42,Counter,Neutral,0,False,All Good
+2026-05-17 22:37:42,Queue 1,Happy,0,False,All Good
+2026-05-17 22:37:42,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:37:42,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:37:55,Counter,Neutral,0,False,All Good
+2026-05-17 22:37:55,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:37:55,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:37:55,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:38:49,Counter,Neutral,0,False,All Good
+2026-05-17 22:38:49,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:38:49,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:38:49,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:39:04,Counter,Neutral,0,False,All Good
+2026-05-17 22:39:04,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:39:04,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:39:04,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:39:17,Counter,Neutral,0,False,All Good
+2026-05-17 22:39:17,Queue 1,Sad,6,False,All Good
+2026-05-17 22:39:17,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:39:17,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:39:30,Counter,Neutral,0,False,All Good
+2026-05-17 22:39:30,Queue 1,Happy,7,False,All Good
+2026-05-17 22:39:30,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:39:30,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:39:43,Counter,Neutral,0,False,All Good
+2026-05-17 22:39:43,Queue 1,Angry,20,False,All Good
+2026-05-17 22:39:43,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:39:43,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:39:56,Counter,Neutral,0,False,All Good
+2026-05-17 22:39:56,Queue 1,Neutral,2,False,All Good
+2026-05-17 22:39:56,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:39:56,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:40:08,Counter,Neutral,0,False,All Good
+2026-05-17 22:40:08,Queue 1,Neutral,7,False,All Good
+2026-05-17 22:40:08,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:40:08,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:40:21,Counter,Neutral,0,False,All Good
+2026-05-17 22:40:21,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:40:21,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:40:21,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:40:34,Counter,Neutral,0,False,All Good
+2026-05-17 22:40:34,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:40:34,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:40:34,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:40:47,Counter,Neutral,0,False,All Good
+2026-05-17 22:40:47,Queue 1,Happy,0,False,All Good
+2026-05-17 22:40:47,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:40:47,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:41:36,Counter,Neutral,0,False,All Good
+2026-05-17 22:41:36,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:41:36,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:41:36,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:41:49,Counter,Neutral,0,False,All Good
+2026-05-17 22:41:49,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:41:49,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:41:49,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:42:04,Counter,Neutral,0,False,All Good
+2026-05-17 22:42:04,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:42:04,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:42:04,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:42:17,Counter,Neutral,0,False,All Good
+2026-05-17 22:42:17,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:42:17,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:42:17,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:42:30,Counter,Neutral,0,False,All Good
+2026-05-17 22:42:30,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:42:30,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:42:30,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:42:44,Counter,Neutral,0,False,All Good
+2026-05-17 22:42:44,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:42:44,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:42:44,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:42:58,Counter,Neutral,0,False,All Good
+2026-05-17 22:42:58,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:42:58,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:42:58,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:43:12,Counter,Neutral,0,False,All Good
+2026-05-17 22:43:12,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:43:12,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:43:12,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:43:25,Counter,Neutral,0,False,All Good
+2026-05-17 22:43:25,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:43:25,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:43:25,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:43:37,Counter,Neutral,0,False,All Good
+2026-05-17 22:43:37,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:43:37,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:43:37,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:43:51,Counter,Neutral,0,False,All Good
+2026-05-17 22:43:51,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:43:51,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:43:51,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:44:04,Counter,Neutral,0,False,All Good
+2026-05-17 22:44:04,Queue 1,Sad,19,False,All Good
+2026-05-17 22:44:04,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:44:04,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:44:16,Counter,Neutral,0,False,All Good
+2026-05-17 22:44:16,Queue 1,Sad,36,False,All Good
+2026-05-17 22:44:16,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:44:16,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:44:29,Counter,Neutral,0,False,All Good
+2026-05-17 22:44:29,Queue 1,Sad,27,True,Service Quality Check Required
+2026-05-17 22:44:29,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:44:29,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:44:42,Counter,Neutral,0,False,All Good
+2026-05-17 22:44:42,Queue 1,Happy,0,False,All Good
+2026-05-17 22:44:42,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:44:42,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:44:56,Counter,Neutral,0,False,All Good
+2026-05-17 22:44:56,Queue 1,Happy,5,False,All Good
+2026-05-17 22:44:56,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:44:56,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:45:09,Counter,Neutral,0,False,All Good
+2026-05-17 22:45:09,Queue 1,Angry,3,False,All Good
+2026-05-17 22:45:09,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:45:09,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:45:21,Counter,Happy,0,False,All Good
+2026-05-17 22:45:21,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:45:21,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:45:21,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:45:35,Counter,Happy,1,False,All Good
+2026-05-17 22:45:35,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:45:35,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:45:35,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:45:47,Counter,Happy,0,False,All Good
+2026-05-17 22:45:47,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:45:47,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:45:47,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:46:00,Counter,Happy,1,False,All Good
+2026-05-17 22:46:00,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:46:00,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:46:00,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:46:13,Counter,Happy,0,False,All Good
+2026-05-17 22:46:13,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:46:13,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:46:13,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:46:25,Counter,Angry,18,False,All Good
+2026-05-17 22:46:25,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:46:25,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:46:25,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:46:37,Counter,Angry,15,False,All Good
+2026-05-17 22:46:37,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:46:37,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:46:37,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:46:50,Counter,Neutral,10,False,All Good
+2026-05-17 22:46:50,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:46:50,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:46:50,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:47:02,Counter,Angry,8,False,All Good
+2026-05-17 22:47:02,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:47:02,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:47:02,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:47:14,Counter,Sad,1,False,All Good
+2026-05-17 22:47:14,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:47:14,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:47:14,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:47:27,Counter,Neutral,0,False,All Good
+2026-05-17 22:47:27,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:47:27,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:47:27,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:47:40,Counter,Sad,1,False,All Good
+2026-05-17 22:47:40,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:47:40,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:47:40,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:47:52,Counter,Happy,1,False,All Good
+2026-05-17 22:47:52,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:47:52,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:47:52,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:48:04,Counter,Angry,8,False,All Good
+2026-05-17 22:48:04,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:48:04,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:48:04,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:48:18,Counter,Fearful,1,False,All Good
+2026-05-17 22:48:18,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:48:18,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:48:18,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:48:32,Counter,Sad,1,True,Service Quality Check Required
+2026-05-17 22:48:32,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:48:32,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:48:32,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:48:45,Counter,Neutral,0,False,All Good
+2026-05-17 22:48:45,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:48:45,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:48:45,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:48:59,Counter,Happy,1,False,All Good
+2026-05-17 22:48:59,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:48:59,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:48:59,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:49:11,Counter,Neutral,7,False,All Good
+2026-05-17 22:49:11,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:49:11,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:49:11,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:49:24,Counter,Neutral,14,False,All Good
+2026-05-17 22:49:24,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:49:24,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:49:24,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:49:37,Counter,Neutral,0,False,All Good
+2026-05-17 22:49:37,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:49:37,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:49:37,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:49:51,Counter,Neutral,0,False,All Good
+2026-05-17 22:49:51,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:49:51,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:49:51,Queue 3,Neutral,0,False,All Good
+2026-05-17 22:50:05,Counter,Neutral,0,False,All Good
+2026-05-17 22:50:05,Queue 1,Neutral,0,False,All Good
+2026-05-17 22:50:05,Queue 2,Neutral,0,False,All Good
+2026-05-17 22:50:05,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:26:14,Counter,Neutral,0,False,All Good
+2026-05-19 10:26:14,Queue 1,Sad,10,False,All Good
+2026-05-19 10:26:14,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:26:14,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:26:28,Counter,Neutral,0,False,All Good
+2026-05-19 10:26:28,Queue 1,Sad,14,False,All Good
+2026-05-19 10:26:28,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:26:28,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:26:40,Counter,Neutral,0,False,All Good
+2026-05-19 10:26:40,Queue 1,Sad,13,True,Service Quality Check Required
+2026-05-19 10:26:40,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:26:40,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:26:53,Counter,Neutral,0,False,All Good
+2026-05-19 10:26:53,Queue 1,Sad,26,True,Service Quality Check Required
+2026-05-19 10:26:53,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:26:53,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:27:05,Counter,Neutral,0,False,All Good
+2026-05-19 10:27:05,Queue 1,Sad,18,True,Service Quality Check Required
+2026-05-19 10:27:05,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:27:05,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:27:20,Counter,Neutral,0,False,All Good
+2026-05-19 10:27:20,Queue 1,Sad,5,True,Service Quality Check Required
+2026-05-19 10:27:20,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:27:20,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:27:34,Counter,Neutral,0,False,All Good
+2026-05-19 10:27:34,Queue 1,Sad,1,True,Service Quality Check Required
+2026-05-19 10:27:34,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:27:34,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:27:46,Counter,Neutral,0,False,All Good
+2026-05-19 10:27:46,Queue 1,Neutral,8,False,All Good
+2026-05-19 10:27:46,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:27:46,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:27:58,Counter,Neutral,0,False,All Good
+2026-05-19 10:27:58,Queue 1,Neutral,2,False,All Good
+2026-05-19 10:27:58,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:27:58,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:28:13,Counter,Neutral,0,False,All Good
+2026-05-19 10:28:13,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:28:13,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:28:13,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:28:26,Counter,Neutral,0,False,All Good
+2026-05-19 10:28:26,Queue 1,Neutral,3,False,All Good
+2026-05-19 10:28:26,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:28:26,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:28:39,Counter,Neutral,0,False,All Good
+2026-05-19 10:28:39,Queue 1,Sad,6,False,All Good
+2026-05-19 10:28:39,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:28:39,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:28:55,Counter,Neutral,0,False,All Good
+2026-05-19 10:28:55,Queue 1,Sad,22,False,All Good
+2026-05-19 10:28:55,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:28:55,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:29:08,Counter,Neutral,0,False,All Good
+2026-05-19 10:29:08,Queue 1,Sad,20,True,Service Quality Check Required
+2026-05-19 10:29:08,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:29:08,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:29:24,Counter,Sad,21,False,All Good
+2026-05-19 10:29:24,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:29:24,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:29:24,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:29:36,Counter,Sad,10,False,All Good
+2026-05-19 10:29:36,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:29:36,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:29:36,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:29:49,Counter,Sad,20,True,Service Quality Check Required
+2026-05-19 10:29:49,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:29:49,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:29:49,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:30:03,Counter,Fearful,13,True,Service Quality Check Required
+2026-05-19 10:30:03,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:30:03,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:30:03,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:30:18,Counter,Angry,20,True,Service Quality Check Required
+2026-05-19 10:30:18,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:30:18,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:30:18,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:30:33,Counter,Fearful,19,True,Service Quality Check Required
+2026-05-19 10:30:33,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:30:33,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:30:33,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:30:46,Counter,Fearful,13,True,Service Quality Check Required
+2026-05-19 10:30:46,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:30:46,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:30:46,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:30:58,Counter,Fearful,25,True,Service Quality Check Required
+2026-05-19 10:30:58,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:30:58,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:30:58,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:31:14,Counter,Fearful,36,True,Service Quality Check Required
+2026-05-19 10:31:14,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:31:14,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:31:14,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:31:28,Counter,Angry,38,True,Service Quality Check Required
+2026-05-19 10:31:28,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:31:28,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:31:28,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:31:46,Counter,Neutral,5,False,All Good
+2026-05-19 10:31:46,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:31:46,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:31:46,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:32:03,Counter,Sad,21,False,All Good
+2026-05-19 10:32:03,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:32:03,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:32:03,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:32:15,Counter,Angry,16,False,All Good
+2026-05-19 10:32:15,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:32:15,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:32:15,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:32:31,Counter,Angry,11,True,Service Quality Check Required
+2026-05-19 10:32:31,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:32:31,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:32:31,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:32:44,Counter,Angry,11,True,Service Quality Check Required
+2026-05-19 10:32:44,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:32:44,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:32:44,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:32:57,Counter,Angry,8,True,Service Quality Check Required
+2026-05-19 10:32:57,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:32:57,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:32:57,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:33:09,Counter,Neutral,8,False,All Good
+2026-05-19 10:33:09,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:33:09,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:33:09,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:33:25,Counter,Neutral,10,False,All Good
+2026-05-19 10:33:25,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:33:25,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:33:25,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:33:37,Counter,Neutral,6,False,All Good
+2026-05-19 10:33:37,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:33:37,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:33:37,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:33:50,Counter,Neutral,2,False,All Good
+2026-05-19 10:33:50,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:33:50,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:33:50,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:34:03,Counter,Neutral,0,False,All Good
+2026-05-19 10:34:03,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:34:03,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:34:03,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:34:17,Counter,Neutral,1,False,All Good
+2026-05-19 10:34:17,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:34:17,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:34:17,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:34:29,Counter,Neutral,10,False,All Good
+2026-05-19 10:34:29,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:34:29,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:34:29,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:34:42,Counter,Neutral,7,False,All Good
+2026-05-19 10:34:42,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:34:42,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:34:42,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:34:55,Counter,Neutral,6,False,All Good
+2026-05-19 10:34:55,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:34:55,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:34:55,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:35:07,Counter,Neutral,3,False,All Good
+2026-05-19 10:35:07,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:35:07,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:35:07,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:35:21,Counter,Neutral,0,False,All Good
+2026-05-19 10:35:21,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:35:21,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:35:21,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:35:37,Counter,Neutral,11,False,All Good
+2026-05-19 10:35:37,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:35:37,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:35:37,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:35:53,Counter,Angry,21,False,All Good
+2026-05-19 10:35:53,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:35:53,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:35:53,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:36:05,Counter,Neutral,7,False,All Good
+2026-05-19 10:36:05,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:36:05,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:36:05,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:36:18,Counter,Angry,10,False,All Good
+2026-05-19 10:36:18,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:36:18,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:36:18,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:36:30,Counter,Sad,7,False,All Good
+2026-05-19 10:36:30,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:36:30,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:36:30,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:36:43,Counter,Angry,4,True,Service Quality Check Required
+2026-05-19 10:36:43,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:36:43,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:36:43,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:36:56,Counter,Neutral,4,False,All Good
+2026-05-19 10:36:56,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:36:56,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:36:56,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:37:09,Counter,Neutral,6,False,All Good
+2026-05-19 10:37:09,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:37:09,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:37:09,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:37:21,Counter,Neutral,0,False,All Good
+2026-05-19 10:37:21,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:37:21,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:37:21,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:37:34,Counter,Angry,14,False,All Good
+2026-05-19 10:37:34,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:37:34,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:37:34,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:37:47,Counter,Angry,8,False,All Good
+2026-05-19 10:37:47,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:37:47,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:37:47,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:37:59,Counter,Neutral,2,False,All Good
+2026-05-19 10:37:59,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:37:59,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:37:59,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:38:12,Counter,Angry,13,False,All Good
+2026-05-19 10:38:12,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:38:12,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:38:12,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:38:24,Counter,Angry,9,False,All Good
+2026-05-19 10:38:24,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:38:24,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:38:24,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:38:36,Counter,Angry,11,True,Service Quality Check Required
+2026-05-19 10:38:36,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:38:36,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:38:36,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:38:51,Counter,Neutral,4,False,All Good
+2026-05-19 10:38:51,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:38:51,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:38:51,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:39:05,Counter,Neutral,8,False,All Good
+2026-05-19 10:39:05,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:39:05,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:39:05,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:39:17,Counter,Angry,8,False,All Good
+2026-05-19 10:39:17,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:39:17,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:39:17,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:39:33,Counter,Sad,11,False,All Good
+2026-05-19 10:39:33,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:39:33,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:39:33,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:39:45,Counter,Sad,4,True,Service Quality Check Required
+2026-05-19 10:39:45,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:39:45,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:39:45,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:39:58,Counter,Sad,13,True,Service Quality Check Required
+2026-05-19 10:39:58,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:39:58,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:39:58,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:40:10,Counter,Angry,18,True,Service Quality Check Required
+2026-05-19 10:40:10,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:40:10,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:40:10,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:40:22,Counter,Neutral,4,False,All Good
+2026-05-19 10:40:22,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:40:22,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:40:22,Queue 3,Neutral,1,False,All Good
+2026-05-19 10:40:37,Counter,Neutral,0,False,All Good
+2026-05-19 10:40:37,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:40:37,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:40:37,Queue 3,Angry,14,False,All Good
+2026-05-19 10:40:50,Counter,Neutral,0,False,All Good
+2026-05-19 10:40:50,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:40:50,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:40:50,Queue 3,Angry,16,False,All Good
+2026-05-19 10:41:02,Counter,Neutral,0,False,All Good
+2026-05-19 10:41:02,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:41:02,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:41:02,Queue 3,Angry,6,True,Service Quality Check Required
+2026-05-19 10:41:18,Counter,Neutral,0,False,All Good
+2026-05-19 10:41:18,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:41:18,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:41:18,Queue 3,Sad,18,True,Service Quality Check Required
+2026-05-19 10:41:31,Counter,Neutral,0,False,All Good
+2026-05-19 10:41:31,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:41:31,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:41:31,Queue 3,Sad,10,True,Service Quality Check Required
+2026-05-19 10:41:44,Counter,Neutral,0,False,All Good
+2026-05-19 10:41:44,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:41:44,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:41:44,Queue 3,Neutral,8,False,All Good
+2026-05-19 10:41:58,Counter,Angry,3,False,All Good
+2026-05-19 10:41:58,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:41:58,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:41:58,Queue 3,Neutral,7,False,All Good
+2026-05-19 10:42:12,Counter,Neutral,0,False,All Good
+2026-05-19 10:42:12,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:42:12,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:42:12,Queue 3,Angry,23,False,All Good
+2026-05-19 10:42:25,Counter,Neutral,0,False,All Good
+2026-05-19 10:42:25,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:42:25,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:42:25,Queue 3,Angry,10,False,All Good
+2026-05-19 10:42:38,Counter,Angry,4,False,All Good
+2026-05-19 10:42:38,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:42:38,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:42:38,Queue 3,Angry,2,True,Service Quality Check Required
+2026-05-19 10:42:50,Counter,Sad,11,False,All Good
+2026-05-19 10:42:50,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:42:50,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:42:50,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:43:06,Counter,Angry,16,True,Service Quality Check Required
+2026-05-19 10:43:06,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:43:06,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:43:06,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:43:19,Counter,Angry,8,True,Service Quality Check Required
+2026-05-19 10:43:19,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:43:19,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:43:19,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:43:35,Counter,Angry,15,True,Service Quality Check Required
+2026-05-19 10:43:35,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:43:35,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:43:35,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:43:47,Counter,Sad,17,True,Service Quality Check Required
+2026-05-19 10:43:47,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:43:47,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:43:47,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:44:03,Counter,Sad,21,True,Service Quality Check Required
+2026-05-19 10:44:03,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:44:03,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:44:03,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:44:16,Counter,Sad,15,True,Service Quality Check Required
+2026-05-19 10:44:16,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:44:16,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:44:16,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:44:28,Counter,Sad,15,True,Service Quality Check Required
+2026-05-19 10:44:28,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:44:28,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:44:28,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:44:42,Counter,Sad,21,True,Service Quality Check Required
+2026-05-19 10:44:42,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:44:42,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:44:42,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:44:58,Counter,Sad,22,True,Service Quality Check Required
+2026-05-19 10:44:58,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:44:58,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:44:58,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:45:10,Counter,Angry,3,True,Service Quality Check Required
+2026-05-19 10:45:10,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:45:10,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:45:10,Queue 3,Angry,4,False,All Good
+2026-05-19 10:45:23,Counter,Angry,2,True,Service Quality Check Required
+2026-05-19 10:45:23,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:45:23,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:45:23,Queue 3,Sad,5,False,All Good
+2026-05-19 10:45:38,Counter,Angry,6,True,Service Quality Check Required
+2026-05-19 10:45:38,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:45:38,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:45:38,Queue 3,Sad,10,True,Service Quality Check Required
+2026-05-19 10:45:53,Counter,Neutral,0,False,All Good
+2026-05-19 10:45:53,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:45:53,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:45:53,Queue 3,Sad,1,True,Service Quality Check Required
+2026-05-19 10:46:05,Counter,Sad,3,False,All Good
+2026-05-19 10:46:05,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:46:05,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:46:05,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:46:19,Counter,Angry,1,False,All Good
+2026-05-19 10:46:19,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:46:19,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:46:19,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:46:35,Counter,Sad,16,True,Service Quality Check Required
+2026-05-19 10:46:35,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:46:35,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:46:35,Queue 3,Sad,2,False,All Good
+2026-05-19 10:46:47,Counter,Neutral,0,False,All Good
+2026-05-19 10:46:47,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:46:47,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:46:47,Queue 3,Angry,11,False,All Good
+2026-05-19 10:47:05,Counter,Neutral,0,False,All Good
+2026-05-19 10:47:05,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:47:05,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:47:05,Queue 3,Angry,2,True,Service Quality Check Required
+2026-05-19 10:47:18,Counter,Neutral,0,False,All Good
+2026-05-19 10:47:18,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:47:18,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:47:18,Queue 3,Happy,2,False,All Good
+2026-05-19 10:47:35,Counter,Happy,0,False,All Good
+2026-05-19 10:47:35,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:47:35,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:47:35,Queue 3,Sad,17,False,All Good
+2026-05-19 10:47:50,Counter,Neutral,0,False,All Good
+2026-05-19 10:47:50,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:47:50,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:47:50,Queue 3,Sad,11,False,All Good
+2026-05-19 10:48:08,Counter,Neutral,0,False,All Good
+2026-05-19 10:48:08,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:48:08,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:48:08,Queue 3,Neutral,6,False,All Good
+2026-05-19 10:48:23,Counter,Neutral,0,False,All Good
+2026-05-19 10:48:23,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:48:23,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:48:23,Queue 3,Neutral,13,False,All Good
+2026-05-19 10:48:37,Counter,Neutral,0,False,All Good
+2026-05-19 10:48:37,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:48:37,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:48:37,Queue 3,Sad,20,False,All Good
+2026-05-19 10:48:52,Counter,Neutral,0,False,All Good
+2026-05-19 10:48:52,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:48:52,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:48:52,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:49:04,Counter,Neutral,0,False,All Good
+2026-05-19 10:49:04,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:49:04,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:49:04,Queue 3,Neutral,1,False,All Good
+2026-05-19 10:49:16,Counter,Neutral,0,False,All Good
+2026-05-19 10:49:16,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:49:16,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:49:16,Queue 3,Neutral,7,False,All Good
+2026-05-19 10:49:29,Counter,Neutral,0,False,All Good
+2026-05-19 10:49:29,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:49:29,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:49:29,Queue 3,Neutral,6,False,All Good
+2026-05-19 10:49:41,Counter,Neutral,0,False,All Good
+2026-05-19 10:49:41,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:49:41,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:49:41,Queue 3,Neutral,3,False,All Good
+2026-05-19 10:49:57,Counter,Neutral,0,False,All Good
+2026-05-19 10:49:57,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:49:57,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:49:57,Queue 3,Sad,15,False,All Good
+2026-05-19 10:50:11,Counter,Neutral,0,False,All Good
+2026-05-19 10:50:11,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:50:11,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:50:11,Queue 3,Neutral,8,False,All Good
+2026-05-19 10:50:23,Counter,Neutral,0,False,All Good
+2026-05-19 10:50:23,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:50:23,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:50:23,Queue 3,Neutral,1,False,All Good
+2026-05-19 10:50:36,Counter,Angry,2,False,All Good
+2026-05-19 10:50:36,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:50:36,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:50:36,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:50:48,Counter,Sad,14,False,All Good
+2026-05-19 10:50:48,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:50:48,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:50:48,Queue 3,Sad,4,False,All Good
+2026-05-19 10:51:01,Counter,Neutral,0,False,All Good
+2026-05-19 10:51:01,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:51:01,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:51:01,Queue 3,Sad,12,False,All Good
+2026-05-19 10:51:16,Counter,Neutral,0,False,All Good
+2026-05-19 10:51:16,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:51:16,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:51:16,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:51:31,Counter,Neutral,0,False,All Good
+2026-05-19 10:51:31,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:51:31,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:51:31,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:51:45,Counter,Neutral,0,False,All Good
+2026-05-19 10:51:45,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:51:45,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:51:45,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:52:03,Counter,Neutral,0,False,All Good
+2026-05-19 10:52:03,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:52:03,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:52:03,Queue 3,Neutral,3,False,All Good
+2026-05-19 10:52:16,Counter,Neutral,0,False,All Good
+2026-05-19 10:52:16,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:52:16,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:52:16,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:52:30,Counter,Neutral,0,False,All Good
+2026-05-19 10:52:30,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:52:30,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:52:30,Queue 3,Sad,16,False,All Good
+2026-05-19 10:52:42,Counter,Neutral,2,False,All Good
+2026-05-19 10:52:42,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:52:42,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:52:42,Queue 3,Sad,5,False,All Good
+2026-05-19 10:52:56,Counter,Neutral,0,False,All Good
+2026-05-19 10:52:56,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:52:56,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:52:56,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:53:09,Counter,Neutral,0,False,All Good
+2026-05-19 10:53:09,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:53:09,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:53:09,Queue 3,Sad,20,False,All Good
+2026-05-19 10:53:23,Counter,Neutral,0,False,All Good
+2026-05-19 10:53:23,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:53:23,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:53:23,Queue 3,Neutral,7,False,All Good
+2026-05-19 10:53:36,Counter,Neutral,0,False,All Good
+2026-05-19 10:53:36,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:53:36,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:53:36,Queue 3,Sad,21,False,All Good
+2026-05-19 10:53:51,Counter,Neutral,0,False,All Good
+2026-05-19 10:53:51,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:53:51,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:53:51,Queue 3,Neutral,12,False,All Good
+2026-05-19 10:54:06,Counter,Neutral,0,False,All Good
+2026-05-19 10:54:06,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:54:06,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:54:06,Queue 3,Neutral,9,False,All Good
+2026-05-19 10:54:18,Counter,Neutral,0,False,All Good
+2026-05-19 10:54:18,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:54:18,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:54:18,Queue 3,Sad,19,False,All Good
+2026-05-19 10:54:31,Counter,Neutral,0,False,All Good
+2026-05-19 10:54:31,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:54:31,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:54:31,Queue 3,Sad,13,False,All Good
+2026-05-19 10:54:45,Counter,Neutral,0,False,All Good
+2026-05-19 10:54:45,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:54:45,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:54:45,Queue 3,Sad,7,True,Service Quality Check Required
+2026-05-19 10:54:57,Counter,Neutral,0,False,All Good
+2026-05-19 10:54:57,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:54:57,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:54:57,Queue 3,Sad,18,True,Service Quality Check Required
+2026-05-19 10:55:09,Counter,Neutral,0,False,All Good
+2026-05-19 10:55:09,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:55:09,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:55:09,Queue 3,Neutral,2,False,All Good
+2026-05-19 10:55:23,Counter,Neutral,0,False,All Good
+2026-05-19 10:55:23,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:55:23,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:55:23,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:55:36,Counter,Neutral,0,False,All Good
+2026-05-19 10:55:36,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:55:36,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:55:36,Queue 3,Neutral,4,False,All Good
+2026-05-19 10:55:48,Counter,Neutral,0,False,All Good
+2026-05-19 10:55:48,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:55:48,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:55:48,Queue 3,Neutral,12,False,All Good
+2026-05-19 10:56:00,Counter,Neutral,0,False,All Good
+2026-05-19 10:56:00,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:56:00,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:56:00,Queue 3,Neutral,3,False,All Good
+2026-05-19 10:56:13,Counter,Neutral,0,False,All Good
+2026-05-19 10:56:13,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:56:13,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:56:13,Queue 3,Neutral,11,False,All Good
+2026-05-19 10:56:26,Counter,Neutral,0,False,All Good
+2026-05-19 10:56:26,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:56:26,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:56:26,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:56:39,Counter,Neutral,0,False,All Good
+2026-05-19 10:56:39,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:56:39,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:56:39,Queue 3,Neutral,4,False,All Good
+2026-05-19 10:56:54,Counter,Neutral,0,False,All Good
+2026-05-19 10:56:54,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:56:54,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:56:54,Queue 3,Angry,17,False,All Good
+2026-05-19 10:57:06,Counter,Neutral,0,False,All Good
+2026-05-19 10:57:06,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:57:06,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:57:06,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:57:18,Counter,Neutral,0,False,All Good
+2026-05-19 10:57:18,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:57:18,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:57:18,Queue 3,Angry,5,False,All Good
+2026-05-19 10:57:31,Counter,Sad,1,False,All Good
+2026-05-19 10:57:31,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:57:31,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:57:31,Queue 3,Angry,10,False,All Good
+2026-05-19 10:58:41,Counter,Neutral,0,False,All Good
+2026-05-19 10:58:41,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:58:41,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:58:41,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:58:55,Counter,Neutral,0,False,All Good
+2026-05-19 10:58:55,Queue 1,Neutral,5,False,All Good
+2026-05-19 10:58:55,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:58:55,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:59:07,Counter,Neutral,4,False,All Good
+2026-05-19 10:59:07,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:59:07,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:59:07,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:59:19,Counter,Neutral,3,False,All Good
+2026-05-19 10:59:19,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:59:19,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:59:19,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:59:31,Counter,Happy,0,False,All Good
+2026-05-19 10:59:31,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:59:31,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:59:31,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:59:44,Counter,Sad,16,False,All Good
+2026-05-19 10:59:44,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:59:44,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:59:44,Queue 3,Neutral,0,False,All Good
+2026-05-19 10:59:56,Counter,Sad,27,False,All Good
+2026-05-19 10:59:56,Queue 1,Neutral,0,False,All Good
+2026-05-19 10:59:56,Queue 2,Neutral,0,False,All Good
+2026-05-19 10:59:56,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:00:08,Counter,Sad,22,True,Service Quality Check Required
+2026-05-19 11:00:08,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:00:08,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:00:08,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:00:21,Counter,Angry,23,True,Service Quality Check Required
+2026-05-19 11:00:21,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:00:21,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:00:21,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:00:35,Counter,Sad,8,True,Service Quality Check Required
+2026-05-19 11:00:35,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:00:35,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:00:35,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:00:47,Counter,Neutral,2,False,All Good
+2026-05-19 11:00:47,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:00:47,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:00:47,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:01:00,Counter,Neutral,5,False,All Good
+2026-05-19 11:01:00,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:01:00,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:01:00,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:01:12,Counter,Sad,10,False,All Good
+2026-05-19 11:01:12,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:01:12,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:01:12,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:01:24,Counter,Neutral,12,False,All Good
+2026-05-19 11:01:24,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:01:24,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:01:24,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:01:37,Counter,Neutral,10,False,All Good
+2026-05-19 11:01:37,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:01:37,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:01:37,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:01:51,Counter,Disgusted,24,False,All Good
+2026-05-19 11:01:51,Queue 1,Disgusted,1,False,All Good
+2026-05-19 11:01:51,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:01:51,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:02:03,Counter,Neutral,0,False,All Good
+2026-05-19 11:02:03,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:02:03,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:02:03,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:02:15,Counter,Neutral,0,False,All Good
+2026-05-19 11:02:15,Queue 1,Angry,1,False,All Good
+2026-05-19 11:02:15,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:02:15,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:02:28,Counter,Sad,5,False,All Good
+2026-05-19 11:02:28,Queue 1,Fearful,4,False,All Good
+2026-05-19 11:02:28,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:02:28,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:02:40,Counter,Angry,7,False,All Good
+2026-05-19 11:02:40,Queue 1,Sad,1,True,Service Quality Check Required
+2026-05-19 11:02:40,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:02:40,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:02:54,Counter,Angry,23,True,Service Quality Check Required
+2026-05-19 11:02:54,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:02:54,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:02:54,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:03:11,Counter,Angry,22,True,Service Quality Check Required
+2026-05-19 11:03:11,Queue 1,Happy,1,False,All Good
+2026-05-19 11:03:11,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:03:11,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:03:25,Counter,Sad,12,True,Service Quality Check Required
+2026-05-19 11:03:25,Queue 1,Angry,8,False,All Good
+2026-05-19 11:03:25,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:03:25,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:03:37,Counter,Neutral,0,False,All Good
+2026-05-19 11:03:37,Queue 1,Happy,2,False,All Good
+2026-05-19 11:03:37,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:03:37,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:03:50,Counter,Sad,1,False,All Good
+2026-05-19 11:03:50,Queue 1,Angry,10,False,All Good
+2026-05-19 11:03:50,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:03:50,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:04:04,Counter,Happy,3,False,All Good
+2026-05-19 11:04:04,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:04:04,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:04:04,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:04:18,Counter,Sad,3,False,All Good
+2026-05-19 11:04:18,Queue 1,Angry,24,False,All Good
+2026-05-19 11:04:18,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:04:18,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:04:32,Counter,Happy,1,False,All Good
+2026-05-19 11:04:32,Queue 1,Happy,8,False,All Good
+2026-05-19 11:04:32,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:04:32,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:04:47,Counter,Angry,1,False,All Good
+2026-05-19 11:04:47,Queue 1,Happy,15,False,All Good
+2026-05-19 11:04:47,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:04:47,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:05:01,Counter,Happy,6,False,All Good
+2026-05-19 11:05:01,Queue 1,Angry,2,False,All Good
+2026-05-19 11:05:01,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:05:01,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:05:14,Counter,Angry,25,False,All Good
+2026-05-19 11:05:14,Queue 1,Disgusted,3,False,All Good
+2026-05-19 11:05:14,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:05:14,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:05:27,Counter,Fearful,6,False,All Good
+2026-05-19 11:05:27,Queue 1,Angry,12,True,Service Quality Check Required
+2026-05-19 11:05:27,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:05:27,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:05:40,Counter,Happy,4,False,All Good
+2026-05-19 11:05:40,Queue 1,Angry,5,True,Service Quality Check Required
+2026-05-19 11:05:40,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:05:40,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:05:53,Counter,Sad,4,False,All Good
+2026-05-19 11:05:53,Queue 1,Angry,14,True,Service Quality Check Required
+2026-05-19 11:05:53,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:05:53,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:06:06,Counter,Neutral,0,False,All Good
+2026-05-19 11:06:06,Queue 1,Sad,20,True,Service Quality Check Required
+2026-05-19 11:06:06,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:06:06,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:06:20,Counter,Neutral,1,False,All Good
+2026-05-19 11:06:20,Queue 1,Fearful,8,True,Service Quality Check Required
+2026-05-19 11:06:20,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:06:20,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:06:33,Counter,Sad,20,False,All Good
+2026-05-19 11:06:33,Queue 1,Angry,2,True,Service Quality Check Required
+2026-05-19 11:06:33,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:06:33,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:06:46,Counter,Neutral,0,False,All Good
+2026-05-19 11:06:46,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:06:46,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:06:46,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:06:59,Counter,Neutral,0,False,All Good
+2026-05-19 11:06:59,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:06:59,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:06:59,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:07:12,Counter,Neutral,0,False,All Good
+2026-05-19 11:07:12,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:07:12,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:07:12,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:07:24,Counter,Neutral,0,False,All Good
+2026-05-19 11:07:24,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:07:24,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:07:24,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:07:36,Counter,Sad,20,False,All Good
+2026-05-19 11:07:36,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:07:36,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:07:36,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:07:49,Counter,Neutral,3,False,All Good
+2026-05-19 11:07:49,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:07:49,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:07:49,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:08:01,Counter,Neutral,1,False,All Good
+2026-05-19 11:08:01,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:08:01,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:08:01,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:08:17,Counter,Neutral,0,False,All Good
+2026-05-19 11:08:17,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:08:17,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:08:17,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:08:29,Counter,Neutral,0,False,All Good
+2026-05-19 11:08:29,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:08:29,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:08:29,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:08:42,Counter,Neutral,0,False,All Good
+2026-05-19 11:08:42,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:08:42,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:08:42,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:08:54,Counter,Neutral,0,False,All Good
+2026-05-19 11:08:54,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:08:54,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:08:54,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:09:06,Counter,Neutral,4,False,All Good
+2026-05-19 11:09:06,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:09:06,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:09:06,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:09:20,Counter,Neutral,5,False,All Good
+2026-05-19 11:09:20,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:09:20,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:09:20,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:09:32,Counter,Neutral,5,False,All Good
+2026-05-19 11:09:32,Queue 1,Angry,4,False,All Good
+2026-05-19 11:09:32,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:09:32,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:09:48,Counter,Angry,30,False,All Good
+2026-05-19 11:09:48,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:09:48,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:09:48,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:10:02,Counter,Happy,1,False,All Good
+2026-05-19 11:10:02,Queue 1,Happy,0,False,All Good
+2026-05-19 11:10:02,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:10:02,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:10:16,Counter,Sad,1,False,All Good
+2026-05-19 11:10:16,Queue 1,Happy,6,False,All Good
+2026-05-19 11:10:16,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:10:16,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:10:31,Counter,Angry,42,False,All Good
+2026-05-19 11:10:31,Queue 1,Angry,24,False,All Good
+2026-05-19 11:10:31,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:10:31,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:10:44,Counter,Neutral,0,False,All Good
+2026-05-19 11:10:44,Queue 1,Happy,2,False,All Good
+2026-05-19 11:10:44,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:10:44,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:10:58,Counter,Neutral,0,False,All Good
+2026-05-19 11:10:58,Queue 1,Sad,10,False,All Good
+2026-05-19 11:10:58,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:10:58,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:11:12,Counter,Neutral,1,False,All Good
+2026-05-19 11:11:12,Queue 1,Neutral,11,False,All Good
+2026-05-19 11:11:12,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:11:12,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:11:25,Counter,Neutral,1,False,All Good
+2026-05-19 11:11:25,Queue 1,Angry,4,False,All Good
+2026-05-19 11:11:25,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:11:25,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:11:38,Counter,Neutral,0,False,All Good
+2026-05-19 11:11:38,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:11:38,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:11:38,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:11:50,Counter,Angry,1,False,All Good
+2026-05-19 11:11:50,Queue 1,Neutral,1,False,All Good
+2026-05-19 11:11:50,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:11:50,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:12:03,Counter,Neutral,3,False,All Good
+2026-05-19 11:12:03,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:12:03,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:12:03,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:12:15,Counter,Neutral,0,False,All Good
+2026-05-19 11:12:15,Queue 1,Happy,0,False,All Good
+2026-05-19 11:12:15,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:12:15,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:12:27,Counter,Neutral,1,False,All Good
+2026-05-19 11:12:27,Queue 1,Neutral,1,False,All Good
+2026-05-19 11:12:27,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:12:27,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:12:39,Counter,Neutral,10,False,All Good
+2026-05-19 11:12:39,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:12:39,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:12:39,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:12:51,Counter,Neutral,1,False,All Good
+2026-05-19 11:12:51,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:12:51,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:12:51,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:13:04,Counter,Neutral,2,False,All Good
+2026-05-19 11:13:04,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:13:04,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:13:04,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:13:18,Counter,Neutral,0,False,All Good
+2026-05-19 11:13:18,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:13:18,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:13:18,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:13:30,Counter,Neutral,1,False,All Good
+2026-05-19 11:13:30,Queue 1,Neutral,2,False,All Good
+2026-05-19 11:13:30,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:13:30,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:13:44,Counter,Sad,2,False,All Good
+2026-05-19 11:13:44,Queue 1,Neutral,2,False,All Good
+2026-05-19 11:13:44,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:13:44,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:13:56,Counter,Fearful,4,False,All Good
+2026-05-19 11:13:56,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:13:56,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:13:56,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:14:09,Counter,Fearful,1,True,Service Quality Check Required
+2026-05-19 11:14:09,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:14:09,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:14:09,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:14:24,Counter,Neutral,1,False,All Good
+2026-05-19 11:14:24,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:14:24,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:14:24,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:14:37,Counter,Neutral,3,False,All Good
+2026-05-19 11:14:37,Queue 1,Sad,6,False,All Good
+2026-05-19 11:14:37,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:14:37,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:14:49,Counter,Neutral,4,False,All Good
+2026-05-19 11:14:49,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:14:49,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:14:49,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:15:02,Counter,Neutral,0,False,All Good
+2026-05-19 11:15:02,Queue 1,Neutral,2,False,All Good
+2026-05-19 11:15:02,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:15:02,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:15:14,Counter,Neutral,0,False,All Good
+2026-05-19 11:15:14,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:15:14,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:15:14,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:15:28,Counter,Neutral,0,False,All Good
+2026-05-19 11:15:28,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:15:28,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:15:28,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:15:40,Counter,Neutral,0,False,All Good
+2026-05-19 11:15:40,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:15:40,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:15:40,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:15:52,Counter,Neutral,1,False,All Good
+2026-05-19 11:15:52,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:15:52,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:15:52,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:16:07,Counter,Neutral,0,False,All Good
+2026-05-19 11:16:07,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:16:07,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:16:07,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:16:21,Counter,Neutral,0,False,All Good
+2026-05-19 11:16:21,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:16:21,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:16:21,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:16:33,Counter,Neutral,0,False,All Good
+2026-05-19 11:16:33,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:16:33,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:16:33,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:16:45,Counter,Neutral,0,False,All Good
+2026-05-19 11:16:45,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:16:45,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:16:45,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:17:02,Counter,Neutral,1,False,All Good
+2026-05-19 11:17:02,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:17:02,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:17:02,Queue 3,Neutral,1,False,All Good
+2026-05-19 11:17:14,Counter,Neutral,0,False,All Good
+2026-05-19 11:17:14,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:17:14,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:17:14,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:17:26,Counter,Neutral,0,False,All Good
+2026-05-19 11:17:26,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:17:26,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:17:26,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:17:39,Counter,Neutral,0,False,All Good
+2026-05-19 11:17:39,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:17:39,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:17:39,Queue 3,Neutral,4,False,All Good
+2026-05-19 11:17:51,Counter,Neutral,0,False,All Good
+2026-05-19 11:17:51,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:17:51,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:17:51,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:18:03,Counter,Neutral,0,False,All Good
+2026-05-19 11:18:03,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:18:03,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:18:03,Queue 3,Neutral,2,False,All Good
+2026-05-19 11:22:06,Counter,Neutral,0,False,All Good
+2026-05-19 11:22:06,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:22:06,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:22:06,Queue 3,Neutral,4,False,All Good
+2026-05-19 11:43:57,Counter,Neutral,0,False,All Good
+2026-05-19 11:43:57,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:43:57,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:43:57,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:44:13,Counter,Neutral,0,False,All Good
+2026-05-19 11:44:13,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:44:13,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:44:13,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:44:28,Counter,Neutral,0,False,All Good
+2026-05-19 11:44:28,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:44:28,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:44:28,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:44:43,Counter,Neutral,0,False,All Good
+2026-05-19 11:44:43,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:44:43,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:44:43,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:44:59,Counter,Neutral,0,False,All Good
+2026-05-19 11:44:59,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:44:59,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:44:59,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:45:14,Counter,Neutral,0,False,All Good
+2026-05-19 11:45:14,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:45:14,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:45:14,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:45:29,Counter,Neutral,0,False,All Good
+2026-05-19 11:45:29,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:45:29,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:45:29,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:45:44,Counter,Neutral,0,False,All Good
+2026-05-19 11:45:44,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:45:44,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:45:44,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:45:59,Counter,Neutral,0,False,All Good
+2026-05-19 11:45:59,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:45:59,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:45:59,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:46:14,Counter,Neutral,0,False,All Good
+2026-05-19 11:46:14,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:46:14,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:46:14,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:46:29,Counter,Neutral,0,False,All Good
+2026-05-19 11:46:29,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:46:29,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:46:29,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:46:43,Counter,Neutral,0,False,All Good
+2026-05-19 11:46:43,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:46:43,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:46:43,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:46:57,Counter,Neutral,0,False,All Good
+2026-05-19 11:46:57,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:46:57,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:46:57,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:47:11,Counter,Neutral,0,False,All Good
+2026-05-19 11:47:11,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:47:11,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:47:11,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:47:25,Counter,Neutral,0,False,All Good
+2026-05-19 11:47:25,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:47:25,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:47:25,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:47:39,Counter,Neutral,0,False,All Good
+2026-05-19 11:47:39,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:47:39,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:47:39,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:47:54,Counter,Neutral,0,False,All Good
+2026-05-19 11:47:54,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:47:54,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:47:54,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:48:08,Counter,Neutral,0,False,All Good
+2026-05-19 11:48:08,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:48:08,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:48:08,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:48:22,Counter,Neutral,0,False,All Good
+2026-05-19 11:48:22,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:48:22,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:48:22,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:48:36,Counter,Neutral,0,False,All Good
+2026-05-19 11:48:36,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:48:36,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:48:36,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:48:50,Counter,Neutral,0,False,All Good
+2026-05-19 11:48:50,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:48:50,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:48:50,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:49:04,Counter,Neutral,0,False,All Good
+2026-05-19 11:49:04,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:49:04,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:49:04,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:49:18,Counter,Neutral,0,False,All Good
+2026-05-19 11:49:18,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:49:18,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:49:18,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:49:33,Counter,Neutral,0,False,All Good
+2026-05-19 11:49:33,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:49:33,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:49:33,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:49:47,Counter,Neutral,0,False,All Good
+2026-05-19 11:49:47,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:49:47,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:49:47,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:50:01,Counter,Neutral,0,False,All Good
+2026-05-19 11:50:01,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:50:01,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:50:01,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:50:16,Counter,Neutral,0,False,All Good
+2026-05-19 11:50:16,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:50:16,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:50:16,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:50:29,Counter,Neutral,0,False,All Good
+2026-05-19 11:50:29,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:50:29,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:50:29,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:50:44,Counter,Neutral,0,False,All Good
+2026-05-19 11:50:44,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:50:44,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:50:44,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:50:59,Counter,Neutral,0,False,All Good
+2026-05-19 11:50:59,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:50:59,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:50:59,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:51:12,Counter,Neutral,0,False,All Good
+2026-05-19 11:51:12,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:51:12,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:51:12,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:51:25,Counter,Neutral,0,False,All Good
+2026-05-19 11:51:25,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:51:25,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:51:25,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:51:40,Counter,Neutral,0,False,All Good
+2026-05-19 11:51:40,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:51:40,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:51:40,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:51:55,Counter,Neutral,0,False,All Good
+2026-05-19 11:51:55,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:51:55,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:51:55,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:52:10,Counter,Neutral,0,False,All Good
+2026-05-19 11:52:10,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:52:10,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:52:10,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:52:25,Counter,Neutral,0,False,All Good
+2026-05-19 11:52:25,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:52:25,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:52:25,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:52:40,Counter,Neutral,0,False,All Good
+2026-05-19 11:52:40,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:52:40,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:52:40,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:52:56,Counter,Neutral,0,False,All Good
+2026-05-19 11:52:56,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:52:56,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:52:56,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:53:10,Counter,Neutral,0,False,All Good
+2026-05-19 11:53:10,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:53:10,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:53:10,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:53:24,Counter,Neutral,0,False,All Good
+2026-05-19 11:53:24,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:53:24,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:53:24,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:53:38,Counter,Neutral,0,False,All Good
+2026-05-19 11:53:38,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:53:38,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:53:38,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:53:53,Counter,Neutral,0,False,All Good
+2026-05-19 11:53:53,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:53:53,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:53:53,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:54:06,Counter,Neutral,0,False,All Good
+2026-05-19 11:54:06,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:54:06,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:54:06,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:54:20,Counter,Neutral,0,False,All Good
+2026-05-19 11:54:20,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:54:20,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:54:20,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:54:34,Counter,Neutral,0,False,All Good
+2026-05-19 11:54:34,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:54:34,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:54:34,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:54:49,Counter,Neutral,0,False,All Good
+2026-05-19 11:54:49,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:54:49,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:54:49,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:55:04,Counter,Neutral,0,False,All Good
+2026-05-19 11:55:04,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:55:04,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:55:04,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:55:21,Counter,Neutral,0,False,All Good
+2026-05-19 11:55:21,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:55:21,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:55:21,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:55:35,Counter,Neutral,0,False,All Good
+2026-05-19 11:55:35,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:55:35,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:55:35,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:55:49,Counter,Neutral,0,False,All Good
+2026-05-19 11:55:49,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:55:49,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:55:49,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:56:04,Counter,Neutral,0,False,All Good
+2026-05-19 11:56:04,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:56:04,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:56:04,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:56:19,Counter,Neutral,0,False,All Good
+2026-05-19 11:56:19,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:56:19,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:56:19,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:56:35,Counter,Neutral,0,False,All Good
+2026-05-19 11:56:35,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:56:35,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:56:35,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:56:50,Counter,Neutral,0,False,All Good
+2026-05-19 11:56:50,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:56:50,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:56:50,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:57:06,Counter,Neutral,0,False,All Good
+2026-05-19 11:57:06,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:57:06,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:57:06,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:57:22,Counter,Neutral,0,False,All Good
+2026-05-19 11:57:22,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:57:22,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:57:22,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:57:38,Counter,Neutral,0,False,All Good
+2026-05-19 11:57:38,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:57:38,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:57:38,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:57:53,Counter,Neutral,0,False,All Good
+2026-05-19 11:57:53,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:57:53,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:57:53,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:58:09,Counter,Neutral,0,False,All Good
+2026-05-19 11:58:09,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:58:09,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:58:09,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:58:25,Counter,Neutral,0,False,All Good
+2026-05-19 11:58:25,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:58:25,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:58:25,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:58:40,Counter,Neutral,0,False,All Good
+2026-05-19 11:58:40,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:58:40,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:58:40,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:58:54,Counter,Neutral,0,False,All Good
+2026-05-19 11:58:54,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:58:54,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:58:54,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:59:09,Counter,Neutral,0,False,All Good
+2026-05-19 11:59:09,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:59:09,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:59:09,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:59:23,Counter,Neutral,0,False,All Good
+2026-05-19 11:59:23,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:59:23,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:59:23,Queue 3,Neutral,0,False,All Good
+2026-05-19 11:59:43,Counter,Neutral,0,False,All Good
+2026-05-19 11:59:43,Queue 1,Neutral,0,False,All Good
+2026-05-19 11:59:43,Queue 2,Neutral,0,False,All Good
+2026-05-19 11:59:43,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:00:02,Counter,Neutral,0,False,All Good
+2026-05-19 12:00:02,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:00:02,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:00:02,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:00:18,Counter,Neutral,0,False,All Good
+2026-05-19 12:00:18,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:00:18,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:00:18,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:00:33,Counter,Neutral,0,False,All Good
+2026-05-19 12:00:33,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:00:33,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:00:33,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:00:50,Counter,Neutral,0,False,All Good
+2026-05-19 12:00:50,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:00:50,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:00:50,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:01:04,Counter,Neutral,0,False,All Good
+2026-05-19 12:01:04,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:01:04,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:01:04,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:01:21,Counter,Neutral,0,False,All Good
+2026-05-19 12:01:21,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:01:21,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:01:21,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:01:36,Counter,Neutral,0,False,All Good
+2026-05-19 12:01:36,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:01:36,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:01:36,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:01:51,Counter,Neutral,0,False,All Good
+2026-05-19 12:01:51,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:01:51,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:01:51,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:02:06,Counter,Neutral,0,False,All Good
+2026-05-19 12:02:06,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:02:06,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:02:06,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:02:20,Counter,Neutral,0,False,All Good
+2026-05-19 12:02:20,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:02:20,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:02:20,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:02:35,Counter,Neutral,0,False,All Good
+2026-05-19 12:02:35,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:02:35,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:02:35,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:02:51,Counter,Neutral,0,False,All Good
+2026-05-19 12:02:51,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:02:51,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:02:51,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:03:05,Counter,Neutral,0,False,All Good
+2026-05-19 12:03:05,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:03:05,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:03:05,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:03:20,Counter,Neutral,0,False,All Good
+2026-05-19 12:03:20,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:03:20,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:03:20,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:03:35,Counter,Neutral,0,False,All Good
+2026-05-19 12:03:35,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:03:35,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:03:35,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:03:55,Counter,Neutral,0,False,All Good
+2026-05-19 12:03:55,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:03:55,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:03:55,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:04:10,Counter,Neutral,0,False,All Good
+2026-05-19 12:04:10,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:04:10,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:04:10,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:04:25,Counter,Neutral,0,False,All Good
+2026-05-19 12:04:25,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:04:25,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:04:25,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:04:39,Counter,Neutral,0,False,All Good
+2026-05-19 12:04:39,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:04:39,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:04:39,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:04:54,Counter,Neutral,0,False,All Good
+2026-05-19 12:04:54,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:04:54,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:04:54,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:05:10,Counter,Neutral,0,False,All Good
+2026-05-19 12:05:10,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:05:10,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:05:10,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:05:25,Counter,Neutral,0,False,All Good
+2026-05-19 12:05:25,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:05:25,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:05:25,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:05:40,Counter,Neutral,0,False,All Good
+2026-05-19 12:05:40,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:05:40,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:05:40,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:05:54,Counter,Neutral,0,False,All Good
+2026-05-19 12:05:54,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:05:54,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:05:54,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:06:08,Counter,Neutral,0,False,All Good
+2026-05-19 12:06:08,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:06:08,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:06:08,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:06:24,Counter,Neutral,0,False,All Good
+2026-05-19 12:06:24,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:06:24,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:06:24,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:06:38,Counter,Neutral,0,False,All Good
+2026-05-19 12:06:38,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:06:38,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:06:38,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:06:51,Counter,Neutral,0,False,All Good
+2026-05-19 12:06:51,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:06:51,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:06:51,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:07:05,Counter,Neutral,0,False,All Good
+2026-05-19 12:07:05,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:07:05,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:07:05,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:07:17,Counter,Neutral,0,False,All Good
+2026-05-19 12:07:17,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:07:17,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:07:17,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:07:30,Counter,Neutral,0,False,All Good
+2026-05-19 12:07:30,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:07:30,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:07:30,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:07:44,Counter,Neutral,0,False,All Good
+2026-05-19 12:07:44,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:07:44,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:07:44,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:07:58,Counter,Neutral,0,False,All Good
+2026-05-19 12:07:58,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:07:58,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:07:58,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:08:12,Counter,Neutral,0,False,All Good
+2026-05-19 12:08:12,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:08:12,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:08:12,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:08:26,Counter,Neutral,0,False,All Good
+2026-05-19 12:08:26,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:08:26,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:08:26,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:08:40,Counter,Neutral,0,False,All Good
+2026-05-19 12:08:40,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:08:40,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:08:40,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:08:53,Counter,Neutral,0,False,All Good
+2026-05-19 12:08:53,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:08:53,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:08:53,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:09:08,Counter,Neutral,0,False,All Good
+2026-05-19 12:09:08,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:09:08,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:09:08,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:09:23,Counter,Neutral,0,False,All Good
+2026-05-19 12:09:23,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:09:23,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:09:23,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:09:38,Counter,Neutral,0,False,All Good
+2026-05-19 12:09:38,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:09:38,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:09:38,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:09:51,Counter,Neutral,0,False,All Good
+2026-05-19 12:09:51,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:09:51,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:09:51,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:10:05,Counter,Neutral,0,False,All Good
+2026-05-19 12:10:05,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:10:05,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:10:05,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:10:19,Counter,Neutral,0,False,All Good
+2026-05-19 12:10:19,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:10:19,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:10:19,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:10:33,Counter,Neutral,0,False,All Good
+2026-05-19 12:10:33,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:10:33,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:10:33,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:10:46,Counter,Neutral,0,False,All Good
+2026-05-19 12:10:46,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:10:46,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:10:46,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:10:59,Counter,Neutral,0,False,All Good
+2026-05-19 12:10:59,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:10:59,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:10:59,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:11:13,Counter,Neutral,0,False,All Good
+2026-05-19 12:11:13,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:11:13,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:11:13,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:11:27,Counter,Neutral,0,False,All Good
+2026-05-19 12:11:27,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:11:27,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:11:27,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:11:40,Counter,Neutral,0,False,All Good
+2026-05-19 12:11:40,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:11:40,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:11:40,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:11:53,Counter,Neutral,0,False,All Good
+2026-05-19 12:11:53,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:11:53,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:11:53,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:12:06,Counter,Neutral,0,False,All Good
+2026-05-19 12:12:06,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:12:06,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:12:06,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:12:19,Counter,Neutral,0,False,All Good
+2026-05-19 12:12:19,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:12:19,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:12:19,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:12:32,Counter,Neutral,0,False,All Good
+2026-05-19 12:12:32,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:12:32,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:12:32,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:12:45,Counter,Neutral,0,False,All Good
+2026-05-19 12:12:45,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:12:45,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:12:45,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:12:58,Counter,Neutral,0,False,All Good
+2026-05-19 12:12:58,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:12:58,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:12:58,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:13:11,Counter,Neutral,0,False,All Good
+2026-05-19 12:13:11,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:13:11,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:13:11,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:13:24,Counter,Neutral,0,False,All Good
+2026-05-19 12:13:24,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:13:24,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:13:24,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:13:37,Counter,Neutral,0,False,All Good
+2026-05-19 12:13:37,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:13:37,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:13:37,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:13:50,Counter,Neutral,0,False,All Good
+2026-05-19 12:13:50,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:13:50,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:13:50,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:14:04,Counter,Neutral,0,False,All Good
+2026-05-19 12:14:04,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:14:04,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:14:04,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:14:17,Counter,Neutral,0,False,All Good
+2026-05-19 12:14:17,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:14:17,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:14:17,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:14:30,Counter,Neutral,0,False,All Good
+2026-05-19 12:14:30,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:14:30,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:14:30,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:14:43,Counter,Neutral,0,False,All Good
+2026-05-19 12:14:43,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:14:43,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:14:43,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:14:56,Counter,Neutral,0,False,All Good
+2026-05-19 12:14:56,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:14:56,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:14:56,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:15:09,Counter,Neutral,0,False,All Good
+2026-05-19 12:15:09,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:15:09,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:15:09,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:15:22,Counter,Neutral,0,False,All Good
+2026-05-19 12:15:22,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:15:22,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:15:22,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:15:35,Counter,Neutral,0,False,All Good
+2026-05-19 12:15:35,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:15:35,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:15:35,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:15:47,Counter,Neutral,0,False,All Good
+2026-05-19 12:15:47,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:15:47,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:15:47,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:16:01,Counter,Neutral,0,False,All Good
+2026-05-19 12:16:01,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:16:01,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:16:01,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:16:13,Counter,Neutral,0,False,All Good
+2026-05-19 12:16:13,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:16:13,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:16:13,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:16:26,Counter,Neutral,0,False,All Good
+2026-05-19 12:16:26,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:16:26,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:16:26,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:16:39,Counter,Neutral,0,False,All Good
+2026-05-19 12:16:39,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:16:39,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:16:39,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:16:52,Counter,Neutral,0,False,All Good
+2026-05-19 12:16:52,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:16:52,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:16:52,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:17:05,Counter,Neutral,0,False,All Good
+2026-05-19 12:17:05,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:17:05,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:17:05,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:17:18,Counter,Neutral,0,False,All Good
+2026-05-19 12:17:18,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:17:18,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:17:18,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:17:31,Counter,Neutral,0,False,All Good
+2026-05-19 12:17:31,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:17:31,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:17:31,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:17:44,Counter,Neutral,0,False,All Good
+2026-05-19 12:17:44,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:17:44,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:17:44,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:17:57,Counter,Neutral,0,False,All Good
+2026-05-19 12:17:57,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:17:57,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:17:57,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:18:09,Counter,Neutral,0,False,All Good
+2026-05-19 12:18:09,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:18:09,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:18:09,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:18:22,Counter,Neutral,0,False,All Good
+2026-05-19 12:18:22,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:18:22,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:18:22,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:18:35,Counter,Neutral,0,False,All Good
+2026-05-19 12:18:35,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:18:35,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:18:35,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:18:48,Counter,Neutral,0,False,All Good
+2026-05-19 12:18:48,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:18:48,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:18:48,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:19:01,Counter,Neutral,0,False,All Good
+2026-05-19 12:19:01,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:19:01,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:19:01,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:19:14,Counter,Neutral,0,False,All Good
+2026-05-19 12:19:14,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:19:14,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:19:14,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:19:27,Counter,Neutral,0,False,All Good
+2026-05-19 12:19:27,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:19:27,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:19:27,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:19:40,Counter,Neutral,0,False,All Good
+2026-05-19 12:19:40,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:19:40,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:19:40,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:19:53,Counter,Neutral,0,False,All Good
+2026-05-19 12:19:53,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:19:53,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:19:53,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:20:06,Counter,Neutral,0,False,All Good
+2026-05-19 12:20:06,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:20:06,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:20:06,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:20:19,Counter,Neutral,0,False,All Good
+2026-05-19 12:20:19,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:20:19,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:20:19,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:20:32,Counter,Neutral,0,False,All Good
+2026-05-19 12:20:32,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:20:32,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:20:32,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:20:44,Counter,Neutral,0,False,All Good
+2026-05-19 12:20:44,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:20:44,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:20:44,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:20:57,Counter,Neutral,0,False,All Good
+2026-05-19 12:20:57,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:20:57,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:20:57,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:21:10,Counter,Neutral,0,False,All Good
+2026-05-19 12:21:10,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:21:10,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:21:10,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:21:23,Counter,Neutral,0,False,All Good
+2026-05-19 12:21:23,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:21:23,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:21:23,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:21:36,Counter,Neutral,0,False,All Good
+2026-05-19 12:21:36,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:21:36,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:21:36,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:21:49,Counter,Neutral,0,False,All Good
+2026-05-19 12:21:49,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:21:49,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:21:49,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:22:02,Counter,Neutral,0,False,All Good
+2026-05-19 12:22:02,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:22:02,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:22:02,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:22:14,Counter,Neutral,0,False,All Good
+2026-05-19 12:22:14,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:22:14,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:22:14,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:22:28,Counter,Neutral,0,False,All Good
+2026-05-19 12:22:28,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:22:28,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:22:28,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:22:40,Counter,Neutral,0,False,All Good
+2026-05-19 12:22:40,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:22:40,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:22:40,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:22:55,Counter,Neutral,0,False,All Good
+2026-05-19 12:22:55,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:22:55,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:22:55,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:23:09,Counter,Neutral,0,False,All Good
+2026-05-19 12:23:09,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:23:09,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:23:09,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:23:21,Counter,Neutral,0,False,All Good
+2026-05-19 12:23:21,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:23:21,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:23:21,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:23:34,Counter,Neutral,0,False,All Good
+2026-05-19 12:23:34,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:23:34,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:23:34,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:23:47,Counter,Neutral,0,False,All Good
+2026-05-19 12:23:47,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:23:47,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:23:47,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:23:59,Counter,Neutral,0,False,All Good
+2026-05-19 12:23:59,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:23:59,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:23:59,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:24:13,Counter,Neutral,0,False,All Good
+2026-05-19 12:24:13,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:24:13,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:24:13,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:24:30,Counter,Neutral,0,False,All Good
+2026-05-19 12:24:30,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:24:30,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:24:30,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:24:46,Counter,Neutral,0,False,All Good
+2026-05-19 12:24:46,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:24:46,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:24:46,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:25:00,Counter,Neutral,0,False,All Good
+2026-05-19 12:25:00,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:25:00,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:25:00,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:25:13,Counter,Neutral,0,False,All Good
+2026-05-19 12:25:13,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:25:13,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:25:13,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:25:27,Counter,Neutral,0,False,All Good
+2026-05-19 12:25:27,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:25:27,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:25:27,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:25:40,Counter,Neutral,0,False,All Good
+2026-05-19 12:25:40,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:25:40,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:25:40,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:25:53,Counter,Neutral,0,False,All Good
+2026-05-19 12:25:53,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:25:53,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:25:53,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:26:06,Counter,Neutral,0,False,All Good
+2026-05-19 12:26:06,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:26:06,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:26:06,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:26:21,Counter,Neutral,0,False,All Good
+2026-05-19 12:26:21,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:26:21,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:26:21,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:26:35,Counter,Neutral,0,False,All Good
+2026-05-19 12:26:35,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:26:35,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:26:35,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:36:27,Counter,Neutral,0,False,All Good
+2026-05-19 12:36:27,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:36:27,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:36:27,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:36:41,Counter,Neutral,0,False,All Good
+2026-05-19 12:36:41,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:36:41,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:36:41,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:36:54,Counter,Neutral,0,False,All Good
+2026-05-19 12:36:54,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:36:54,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:36:54,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:37:07,Counter,Neutral,0,False,All Good
+2026-05-19 12:37:07,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:37:07,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:37:07,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:37:20,Counter,Neutral,0,False,All Good
+2026-05-19 12:37:20,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:37:20,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:37:20,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:37:32,Counter,Neutral,0,False,All Good
+2026-05-19 12:37:32,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:37:32,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:37:32,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:37:45,Counter,Neutral,0,False,All Good
+2026-05-19 12:37:45,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:37:45,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:37:45,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:37:58,Counter,Neutral,0,False,All Good
+2026-05-19 12:37:58,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:37:58,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:37:58,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:38:10,Counter,Neutral,0,False,All Good
+2026-05-19 12:38:10,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:38:10,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:38:10,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:38:23,Counter,Neutral,0,False,All Good
+2026-05-19 12:38:23,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:38:23,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:38:23,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:38:35,Counter,Neutral,0,False,All Good
+2026-05-19 12:38:35,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:38:35,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:38:35,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:38:48,Counter,Neutral,0,False,All Good
+2026-05-19 12:38:48,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:38:48,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:38:48,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:39:02,Counter,Neutral,0,False,All Good
+2026-05-19 12:39:02,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:39:02,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:39:02,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:39:18,Counter,Neutral,0,False,All Good
+2026-05-19 12:39:18,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:39:18,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:39:18,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:39:33,Counter,Neutral,0,False,All Good
+2026-05-19 12:39:33,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:39:33,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:39:33,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:39:47,Counter,Neutral,0,False,All Good
+2026-05-19 12:39:47,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:39:47,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:39:47,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:40:03,Counter,Neutral,0,False,All Good
+2026-05-19 12:40:03,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:40:03,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:40:03,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:40:19,Counter,Neutral,0,False,All Good
+2026-05-19 12:40:19,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:40:19,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:40:19,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:40:36,Counter,Neutral,0,False,All Good
+2026-05-19 12:40:36,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:40:36,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:40:36,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:40:53,Counter,Neutral,0,False,All Good
+2026-05-19 12:40:53,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:40:53,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:40:53,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:41:09,Counter,Neutral,0,False,All Good
+2026-05-19 12:41:09,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:41:09,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:41:09,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:41:24,Counter,Neutral,0,False,All Good
+2026-05-19 12:41:24,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:41:24,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:41:24,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:41:40,Counter,Neutral,0,False,All Good
+2026-05-19 12:41:40,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:41:40,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:41:40,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:41:56,Counter,Neutral,0,False,All Good
+2026-05-19 12:41:56,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:41:56,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:41:56,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:42:11,Counter,Neutral,0,False,All Good
+2026-05-19 12:42:11,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:42:11,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:42:11,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:42:27,Counter,Neutral,0,False,All Good
+2026-05-19 12:42:27,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:42:27,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:42:27,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:42:43,Counter,Neutral,0,False,All Good
+2026-05-19 12:42:43,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:42:43,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:42:43,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:43:00,Counter,Neutral,0,False,All Good
+2026-05-19 12:43:00,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:43:00,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:43:00,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:43:15,Counter,Neutral,0,False,All Good
+2026-05-19 12:43:15,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:43:15,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:43:15,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:43:28,Counter,Neutral,0,False,All Good
+2026-05-19 12:43:28,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:43:28,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:43:28,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:43:45,Counter,Neutral,0,False,All Good
+2026-05-19 12:43:45,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:43:45,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:43:45,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:44:03,Counter,Neutral,0,False,All Good
+2026-05-19 12:44:03,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:44:03,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:44:03,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:44:17,Counter,Neutral,0,False,All Good
+2026-05-19 12:44:17,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:44:17,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:44:17,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:44:31,Counter,Neutral,0,False,All Good
+2026-05-19 12:44:31,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:44:31,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:44:31,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:44:46,Counter,Neutral,0,False,All Good
+2026-05-19 12:44:46,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:44:46,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:44:46,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:45:02,Counter,Neutral,0,False,All Good
+2026-05-19 12:45:02,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:45:02,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:45:02,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:45:17,Counter,Neutral,0,False,All Good
+2026-05-19 12:45:17,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:45:17,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:45:17,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:45:36,Counter,Neutral,0,False,All Good
+2026-05-19 12:45:36,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:45:36,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:45:36,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:45:50,Counter,Neutral,0,False,All Good
+2026-05-19 12:45:50,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:45:50,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:45:50,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:46:06,Counter,Neutral,0,False,All Good
+2026-05-19 12:46:06,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:46:06,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:46:06,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:46:23,Counter,Neutral,0,False,All Good
+2026-05-19 12:46:23,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:46:23,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:46:23,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:46:40,Counter,Neutral,0,False,All Good
+2026-05-19 12:46:40,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:46:40,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:46:40,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:46:56,Counter,Neutral,0,False,All Good
+2026-05-19 12:46:56,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:46:56,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:46:56,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:47:12,Counter,Neutral,0,False,All Good
+2026-05-19 12:47:12,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:47:12,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:47:12,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:47:28,Counter,Neutral,0,False,All Good
+2026-05-19 12:47:28,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:47:28,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:47:28,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:47:45,Counter,Neutral,0,False,All Good
+2026-05-19 12:47:45,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:47:45,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:47:45,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:48:01,Counter,Neutral,0,False,All Good
+2026-05-19 12:48:01,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:48:01,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:48:01,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:48:17,Counter,Neutral,0,False,All Good
+2026-05-19 12:48:17,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:48:17,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:48:17,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:48:34,Counter,Neutral,0,False,All Good
+2026-05-19 12:48:34,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:48:34,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:48:34,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:48:48,Counter,Neutral,0,False,All Good
+2026-05-19 12:48:48,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:48:48,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:48:48,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:49:06,Counter,Neutral,0,False,All Good
+2026-05-19 12:49:06,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:49:06,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:49:06,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:49:23,Counter,Neutral,0,False,All Good
+2026-05-19 12:49:23,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:49:23,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:49:23,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:49:37,Counter,Neutral,0,False,All Good
+2026-05-19 12:49:37,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:49:37,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:49:37,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:49:55,Counter,Neutral,0,False,All Good
+2026-05-19 12:49:55,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:49:55,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:49:55,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:50:12,Counter,Neutral,0,False,All Good
+2026-05-19 12:50:12,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:50:12,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:50:12,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:50:28,Counter,Neutral,0,False,All Good
+2026-05-19 12:50:28,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:50:28,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:50:28,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:50:46,Counter,Neutral,0,False,All Good
+2026-05-19 12:50:46,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:50:46,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:50:46,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:51:04,Counter,Neutral,0,False,All Good
+2026-05-19 12:51:04,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:51:04,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:51:04,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:51:19,Counter,Neutral,0,False,All Good
+2026-05-19 12:51:19,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:51:19,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:51:19,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:51:33,Counter,Neutral,0,False,All Good
+2026-05-19 12:51:33,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:51:33,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:51:33,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:51:48,Counter,Neutral,0,False,All Good
+2026-05-19 12:51:48,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:51:48,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:51:48,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:52:05,Counter,Neutral,0,False,All Good
+2026-05-19 12:52:05,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:52:05,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:52:05,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:52:21,Counter,Neutral,0,False,All Good
+2026-05-19 12:52:21,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:52:21,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:52:21,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:52:37,Counter,Neutral,0,False,All Good
+2026-05-19 12:52:37,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:52:37,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:52:37,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:52:53,Counter,Neutral,0,False,All Good
+2026-05-19 12:52:53,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:52:53,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:52:53,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:53:09,Counter,Neutral,0,False,All Good
+2026-05-19 12:53:09,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:53:09,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:53:09,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:53:24,Counter,Neutral,0,False,All Good
+2026-05-19 12:53:24,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:53:24,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:53:24,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:53:41,Counter,Neutral,0,False,All Good
+2026-05-19 12:53:41,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:53:41,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:53:41,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:53:56,Counter,Neutral,0,False,All Good
+2026-05-19 12:53:56,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:53:56,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:53:56,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:54:10,Counter,Neutral,0,False,All Good
+2026-05-19 12:54:10,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:54:10,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:54:10,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:54:26,Counter,Neutral,0,False,All Good
+2026-05-19 12:54:26,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:54:26,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:54:26,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:54:43,Counter,Neutral,0,False,All Good
+2026-05-19 12:54:43,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:54:43,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:54:43,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:55:00,Counter,Neutral,0,False,All Good
+2026-05-19 12:55:00,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:55:00,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:55:00,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:55:14,Counter,Neutral,0,False,All Good
+2026-05-19 12:55:14,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:55:14,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:55:14,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:55:31,Counter,Neutral,0,False,All Good
+2026-05-19 12:55:31,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:55:31,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:55:31,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:55:50,Counter,Neutral,0,False,All Good
+2026-05-19 12:55:50,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:55:50,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:55:50,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:56:06,Counter,Neutral,0,False,All Good
+2026-05-19 12:56:06,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:56:06,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:56:06,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:56:23,Counter,Neutral,0,False,All Good
+2026-05-19 12:56:23,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:56:23,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:56:23,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:56:40,Counter,Neutral,0,False,All Good
+2026-05-19 12:56:40,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:56:40,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:56:40,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:56:55,Counter,Neutral,0,False,All Good
+2026-05-19 12:56:55,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:56:55,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:56:55,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:57:11,Counter,Neutral,0,False,All Good
+2026-05-19 12:57:11,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:57:11,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:57:11,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:57:27,Counter,Neutral,0,False,All Good
+2026-05-19 12:57:27,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:57:27,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:57:27,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:57:44,Counter,Neutral,0,False,All Good
+2026-05-19 12:57:44,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:57:44,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:57:44,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:58:00,Counter,Neutral,0,False,All Good
+2026-05-19 12:58:00,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:58:00,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:58:00,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:58:15,Counter,Neutral,0,False,All Good
+2026-05-19 12:58:15,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:58:15,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:58:15,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:58:31,Counter,Neutral,0,False,All Good
+2026-05-19 12:58:31,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:58:31,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:58:31,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:58:47,Counter,Neutral,0,False,All Good
+2026-05-19 12:58:47,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:58:47,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:58:47,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:59:04,Counter,Neutral,0,False,All Good
+2026-05-19 12:59:04,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:59:04,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:59:04,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:59:19,Counter,Neutral,0,False,All Good
+2026-05-19 12:59:19,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:59:19,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:59:19,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:59:36,Counter,Neutral,0,False,All Good
+2026-05-19 12:59:36,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:59:36,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:59:36,Queue 3,Neutral,0,False,All Good
+2026-05-19 12:59:53,Counter,Neutral,0,False,All Good
+2026-05-19 12:59:53,Queue 1,Neutral,0,False,All Good
+2026-05-19 12:59:53,Queue 2,Neutral,0,False,All Good
+2026-05-19 12:59:53,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:00:09,Counter,Neutral,0,False,All Good
+2026-05-19 13:00:09,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:00:09,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:00:09,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:00:26,Counter,Neutral,0,False,All Good
+2026-05-19 13:00:26,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:00:26,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:00:26,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:00:41,Counter,Neutral,0,False,All Good
+2026-05-19 13:00:41,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:00:41,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:00:41,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:00:58,Counter,Neutral,0,False,All Good
+2026-05-19 13:00:58,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:00:58,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:00:58,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:01:14,Counter,Neutral,0,False,All Good
+2026-05-19 13:01:14,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:01:14,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:01:14,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:01:30,Counter,Neutral,0,False,All Good
+2026-05-19 13:01:30,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:01:30,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:01:30,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:01:47,Counter,Neutral,0,False,All Good
+2026-05-19 13:01:47,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:01:47,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:01:47,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:02:03,Counter,Neutral,0,False,All Good
+2026-05-19 13:02:03,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:02:03,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:02:03,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:02:19,Counter,Neutral,0,False,All Good
+2026-05-19 13:02:19,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:02:19,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:02:19,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:02:36,Counter,Neutral,0,False,All Good
+2026-05-19 13:02:36,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:02:36,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:02:36,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:02:52,Counter,Neutral,0,False,All Good
+2026-05-19 13:02:52,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:02:52,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:02:52,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:03:08,Counter,Neutral,0,False,All Good
+2026-05-19 13:03:08,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:03:08,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:03:08,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:03:23,Counter,Neutral,0,False,All Good
+2026-05-19 13:03:23,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:03:23,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:03:23,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:03:39,Counter,Neutral,0,False,All Good
+2026-05-19 13:03:39,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:03:39,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:03:39,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:03:55,Counter,Neutral,0,False,All Good
+2026-05-19 13:03:55,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:03:55,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:03:55,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:04:12,Counter,Neutral,0,False,All Good
+2026-05-19 13:04:12,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:04:12,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:04:12,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:04:28,Counter,Neutral,0,False,All Good
+2026-05-19 13:04:28,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:04:28,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:04:28,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:04:44,Counter,Neutral,0,False,All Good
+2026-05-19 13:04:44,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:04:44,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:04:44,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:05:00,Counter,Neutral,0,False,All Good
+2026-05-19 13:05:00,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:05:00,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:05:00,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:05:16,Counter,Neutral,0,False,All Good
+2026-05-19 13:05:16,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:05:16,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:05:16,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:05:32,Counter,Neutral,0,False,All Good
+2026-05-19 13:05:32,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:05:32,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:05:32,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:05:48,Counter,Neutral,0,False,All Good
+2026-05-19 13:05:48,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:05:48,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:05:48,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:06:04,Counter,Neutral,0,False,All Good
+2026-05-19 13:06:04,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:06:04,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:06:04,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:06:19,Counter,Neutral,0,False,All Good
+2026-05-19 13:06:19,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:06:19,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:06:19,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:06:34,Counter,Neutral,0,False,All Good
+2026-05-19 13:06:34,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:06:34,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:06:34,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:06:52,Counter,Neutral,0,False,All Good
+2026-05-19 13:06:52,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:06:52,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:06:52,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:07:08,Counter,Neutral,0,False,All Good
+2026-05-19 13:07:08,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:07:08,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:07:08,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:07:24,Counter,Neutral,0,False,All Good
+2026-05-19 13:07:24,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:07:24,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:07:24,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:07:40,Counter,Neutral,0,False,All Good
+2026-05-19 13:07:40,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:07:40,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:07:40,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:07:55,Counter,Neutral,0,False,All Good
+2026-05-19 13:07:55,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:07:55,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:07:55,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:08:12,Counter,Neutral,0,False,All Good
+2026-05-19 13:08:12,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:08:12,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:08:12,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:08:28,Counter,Neutral,0,False,All Good
+2026-05-19 13:08:28,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:08:28,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:08:28,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:08:45,Counter,Neutral,0,False,All Good
+2026-05-19 13:08:45,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:08:45,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:08:45,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:09:01,Counter,Neutral,0,False,All Good
+2026-05-19 13:09:01,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:09:01,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:09:01,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:09:17,Counter,Neutral,0,False,All Good
+2026-05-19 13:09:17,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:09:17,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:09:17,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:09:33,Counter,Neutral,0,False,All Good
+2026-05-19 13:09:33,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:09:33,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:09:33,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:09:48,Counter,Neutral,0,False,All Good
+2026-05-19 13:09:48,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:09:48,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:09:48,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:10:03,Counter,Neutral,0,False,All Good
+2026-05-19 13:10:03,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:10:03,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:10:03,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:10:18,Counter,Neutral,0,False,All Good
+2026-05-19 13:10:18,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:10:18,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:10:18,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:10:32,Counter,Neutral,0,False,All Good
+2026-05-19 13:10:32,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:10:32,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:10:32,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:10:48,Counter,Neutral,0,False,All Good
+2026-05-19 13:10:48,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:10:48,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:10:48,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:11:04,Counter,Neutral,0,False,All Good
+2026-05-19 13:11:04,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:11:04,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:11:04,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:11:19,Counter,Neutral,0,False,All Good
+2026-05-19 13:11:19,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:11:19,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:11:19,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:11:34,Counter,Neutral,0,False,All Good
+2026-05-19 13:11:34,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:11:34,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:11:34,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:11:48,Counter,Neutral,0,False,All Good
+2026-05-19 13:11:48,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:11:48,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:11:48,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:12:02,Counter,Neutral,0,False,All Good
+2026-05-19 13:12:02,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:12:02,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:12:02,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:12:16,Counter,Neutral,0,False,All Good
+2026-05-19 13:12:16,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:12:16,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:12:16,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:12:30,Counter,Neutral,0,False,All Good
+2026-05-19 13:12:30,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:12:30,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:12:30,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:12:46,Counter,Neutral,0,False,All Good
+2026-05-19 13:12:46,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:12:46,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:12:46,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:13:01,Counter,Neutral,0,False,All Good
+2026-05-19 13:13:01,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:13:01,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:13:01,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:13:18,Counter,Neutral,0,False,All Good
+2026-05-19 13:13:18,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:13:18,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:13:18,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:13:32,Counter,Neutral,0,False,All Good
+2026-05-19 13:13:32,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:13:32,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:13:32,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:13:49,Counter,Neutral,0,False,All Good
+2026-05-19 13:13:49,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:13:49,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:13:49,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:14:07,Counter,Neutral,0,False,All Good
+2026-05-19 13:14:07,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:14:07,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:14:07,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:15:16,Counter,Neutral,0,False,All Good
+2026-05-19 13:15:16,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:15:16,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:15:16,Queue 3,Neutral,1,False,All Good
+2026-05-19 13:15:30,Counter,Neutral,0,False,All Good
+2026-05-19 13:15:30,Queue 1,Neutral,3,False,All Good
+2026-05-19 13:15:30,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:15:30,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:15:42,Counter,Neutral,0,False,All Good
+2026-05-19 13:15:42,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:15:42,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:15:42,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:15:54,Counter,Neutral,0,False,All Good
+2026-05-19 13:15:54,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:15:54,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:15:54,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:16:09,Counter,Neutral,0,False,All Good
+2026-05-19 13:16:09,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:16:09,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:16:09,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:16:21,Counter,Neutral,0,False,All Good
+2026-05-19 13:16:21,Queue 1,Neutral,1,False,All Good
+2026-05-19 13:16:21,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:16:21,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:16:36,Counter,Neutral,0,False,All Good
+2026-05-19 13:16:36,Queue 1,Neutral,1,False,All Good
+2026-05-19 13:16:36,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:16:36,Queue 3,Fearful,2,False,All Good
+2026-05-19 13:16:51,Counter,Neutral,0,False,All Good
+2026-05-19 13:16:51,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:16:51,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:16:51,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:17:03,Counter,Neutral,0,False,All Good
+2026-05-19 13:17:03,Queue 1,Neutral,1,False,All Good
+2026-05-19 13:17:03,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:17:03,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:17:17,Counter,Neutral,0,False,All Good
+2026-05-19 13:17:17,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:17:17,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:17:17,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:17:32,Counter,Neutral,0,False,All Good
+2026-05-19 13:17:32,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:17:32,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:17:32,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:17:45,Counter,Neutral,0,False,All Good
+2026-05-19 13:17:45,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:17:45,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:17:45,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:17:57,Counter,Neutral,0,False,All Good
+2026-05-19 13:17:57,Queue 1,Fearful,1,False,All Good
+2026-05-19 13:17:57,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:17:57,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:18:14,Counter,Neutral,0,False,All Good
+2026-05-19 13:18:14,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:18:14,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:18:14,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:18:26,Counter,Neutral,0,False,All Good
+2026-05-19 13:18:26,Queue 1,Fearful,1,False,All Good
+2026-05-19 13:18:26,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:18:26,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:18:38,Counter,Neutral,0,False,All Good
+2026-05-19 13:18:38,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:18:38,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:18:38,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:18:55,Counter,Neutral,0,False,All Good
+2026-05-19 13:18:55,Queue 1,Fearful,2,False,All Good
+2026-05-19 13:18:55,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:18:55,Queue 3,Neutral,0,False,All Good
+2026-05-19 13:19:07,Counter,Neutral,0,False,All Good
+2026-05-19 13:19:07,Queue 1,Neutral,0,False,All Good
+2026-05-19 13:19:07,Queue 2,Neutral,0,False,All Good
+2026-05-19 13:19:07,Queue 3,Fearful,2,False,All Good

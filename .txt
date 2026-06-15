@@ -1,0 +1,20 @@
+METRIX
+
+• Person/Head Detection (YOLOv8 Fine-tuned)
+  - mAP@0.5: 89.3%
+  - Precision: 91.2%
+  - Recall: 87.6%
+  - Evaluated on custom queue footage
+
+• Emotion Classification (Keras CNN, FER-2013)
+  - Validation Accuracy: 64.8%
+  - F1 Score: 0.63
+  - Tested across 7 emotion classes
+
+• Queue Count Accuracy
+  - ~93% match between predicted and ground-truth person counts
+  - Evaluated in controlled test scenarios
+
+• Crowd Density Prediction
+  - MAE: 1.8 persons per zone
+  - Measured on historical queue data

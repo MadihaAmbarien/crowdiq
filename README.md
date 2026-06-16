@@ -1,4 +1,5 @@
 # CrowdIQ — AI Crowd Intelligence System
+CrowdIQ is an AI-powered crowd monitoring system that uses live CCTV feeds to track crowd density, movement, and queue formation in real time. It detects queue lines, estimates waiting times, and monitors congestion levels to keep operations running smoothly. The system also identifies priority queues for elderly and disabled individuals, ensuring faster and more accessible service. When things go wrong, instant alerts notify staff about overcrowding, long wait times, or abnormal crowd behavior. Smart staff monitoring tracks activity on the ground and optimizes counter allocation for better crowd handling. AI-powered analytics further provide insights on peak hours, service demand, and crowd trends to support smarter decision making. Altogether, CrowdIQ transforms passive surveillance into an intelligent, proactive system built to make crowded spaces safer, more efficient, and easier to manage.
 
 ## Setup (first time only)
 
